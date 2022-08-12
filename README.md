@@ -15,7 +15,7 @@
 
 | Major Lang | Minor Lang |
 | :-- | --: |
-| Node.JS | Lua |
+| *.JS | Lua |
 | Python | C |
 | Bash | Java |
 
