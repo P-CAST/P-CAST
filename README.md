@@ -2,7 +2,7 @@
 
 | Major Roles | Description |
 | :-- | --- |
-| Techlead | I'd love to manage, but I love coding more |
+| Techlead | I'd love to manage ~~, but I love coding more~~ |
 | Software Engineer | Fullstack actully, but Back-End major |
 
 | Minor Roles | Description |
