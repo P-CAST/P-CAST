@@ -13,11 +13,7 @@
 
 
 
-| Major Lang | Minor Lang |
-| :-- | --: |
-| *.JS | Lua |
-| Python | C |
-| Bash | Java |
+***JS (TS) | GO | Python***
 
 
 Support: https://ko-fi.com/PCAST
