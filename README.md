@@ -1,9 +1,9 @@
-[![P-CAST GitHub stats](https://github-readme-stats.vercel.app/api?username=P-CAST&hide=stars&count_private=true&show_icons=true&icon_color=DD6387&theme=dracula)](https://github.com/P-CAST)
+<!-- [![P-CAST GitHub stats](https://github-readme-stats.vercel.app/api?username=P-CAST&hide=stars&count_private=true&show_icons=true&icon_color=DD6387&theme=dracula)](https://github.com/P-CAST) -->
 
 | Major Roles | Description |
 | :-- | --- |
-| Techlead | I'd love to manage ~~, but I love coding more~~ |
-| Software Engineer | Fullstack actully, but Back-End major |
+| Techlead / Manager | I'd love to manage ~~, but I love coding more~~ |
+| Software Engineer | Back-End all the way! |
 
 | Minor Roles | Description |
 | :-- | --- |
@@ -13,7 +13,7 @@
 
 
 
-***JS (TS) | GO | Python***
+***Everything JS (TS) | GO | Python***
 
 
 Support: https://ko-fi.com/PCAST
