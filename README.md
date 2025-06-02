@@ -2,7 +2,7 @@
 
 | Major Roles | Description |
 | :-- | --- |
-| Techlead / Manager | I'd love to manage ~~, but I love coding more~~ |
+| Techlead / Manager | I'd love to manage, but I love coding more |
 | Software Engineer | Back-End all the way! |
 
 | Minor Roles | Description |
